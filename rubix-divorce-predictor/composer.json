@@ -1,0 +1,21 @@
+{
+    "description": "Use the K Nearest Neighbors algorithm to predict the probability of a divorce.",
+    "keywords": [
+        "classification", "divorce prediction", "knn",
+        "machine learning", "php", "rubixml"
+    ],
+    "require": {
+        "php": ">=7.4",
+        "rubix/ml": "^1.0"
+    },
+    "scripts": {
+        "train": "@php train.php",
+        "test": "@php test.php"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

@@ -1,0 +1,11 @@
+# Composer modules
+vendor/
+composer.lock
+report.json
+
+# Rub
+*.rbx
+
+# VS Code settings
+.vscode/
+.vs
