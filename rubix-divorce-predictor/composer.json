@@ -1,5 +1,5 @@
 {
-    "description": "Use the K Nearest Neighbors algorithm to predict the probability of a divorce.",
+    "description": "Use the K-nearest Neighbors algorithm to predict the probability of a divorce.",
     "keywords": [
         "classification", "divorce prediction", "knn",
         "machine learning", "php", "rubixml"
