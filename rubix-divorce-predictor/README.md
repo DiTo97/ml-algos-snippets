@@ -1,6 +1,6 @@
 # Rubix - Divorce Predictor
 
-Use the [K-nearest Neighbors](https://docs.rubixml.com/latest/classifiers/k-nearest-neighbors.html) algorithm built with the [Rubix ML](https://rubixml.com/) library to predict a couple's divorce likelyhood based on the answers to a 54 question survey about their partner designed in the study M. K. Yöntem et al. (2019), Divorce Prediction Using Correlation-based Feature Selection and Artificial Neural Networks. In this study more than 160 volunterr respondents were asked to share their honest feelings on the subjects following a 5-point scale, i.e., (0=Never, 1=Seldom, 2=Averagely, 3=Frequently, 4=Always).
+Use the [K-nearest Neighbors](https://docs.rubixml.com/latest/classifiers/k-nearest-neighbors.html) algorithm built with the [Rubix ML](https://rubixml.com/) library to predict a couple's divorce likelyhood based on the answers to a 54 question survey about their partner designed in the study M. K. Yöntem et al. (2019), Divorce Prediction Using Correlation-based Feature Selection and Artificial Neural Networks. In this study more than 160 volunteer respondents were asked to share their honest feelings on the subjects following a 5-point scale, i.e., (0=Never, 1=Seldom, 2=Averagely, 3=Frequently, 4=Always).
 
 All responses were collected in the human-annotated dataset, *dataset.csv*, that will be used to train the k-NN model.
 
